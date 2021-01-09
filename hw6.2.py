@@ -18,7 +18,7 @@ class Road:
         self.mass = mass
         self.thickness = thickness
 
-        print("В метод добавлены: длина - ", self.length, "ширина -", self.width, "масса -", self.mass, "толщина",
+        print("В метод добавлены величины: длина - ", self.length, "ширина -", self.width, "масса -", self.mass, "толщина",
               self.thickness)
 
 
